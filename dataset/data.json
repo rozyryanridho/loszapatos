@@ -1,0 +1,117 @@
+[
+        {
+            "id":"1",
+            "kategori": "Running",
+            "nama": "Adidas Ultraboost",
+            "harga": "2.800.000",
+            "gambar": "/images/adidas1.jpg"
+        },
+        {   
+            "id":"2",
+            "kategori": "Running",
+            "nama": "Adidas Ultra",
+            "harga": "2.400.000",
+            "gambar": "/images/adidas2.jpg"
+        },
+        {
+            "id":"3",
+            "kategori": "Running",
+            "nama": "Adidas Ultraboost Silk Touch",
+            "harga": "3.000.000",
+            "gambar": "/images/adidas3.jpg"
+        },
+        {
+            "id":"4",
+            "kategori": "Running",
+            "nama": "Adidas Ultraboost Silk Touch",
+            "harga": "3.000.000",
+            "gambar": "/images/adidas4.jpg"
+        },
+        {
+            "id":"5",
+            "kategori": "Basketball",
+            "nama": "Nike Air Jordan",
+            "harga": "4.000.000",
+            "gambar": "/images/air1.jpg"
+        },
+        {
+            "id":"6",
+            "kategori": "Basketball",
+            "nama": "Nike Air Max",
+            "harga": "4.000.000",
+            "gambar": "/images/air8.jpg"
+        },
+        {
+            "id":"7",
+            "kategori": "Basketball",
+            "nama": "Nike KD",
+            "harga": "1.999.999",
+            "gambar": "/images/air6.jpg"
+        },
+        {
+            "id":"8",
+            "kategori": "Basketball",
+            "nama": "Nike Westbrook",
+            "harga": "3.800.000",
+            "gambar": "/images/air7.jpg"
+        },
+        {
+            "id":"9",
+            "kategori": "Casual",
+            "nama": "Rebook Zig Kinegta",
+            "harga": "1.890.000",
+            "gambar": "/images/r10.jpg"
+        },
+        {
+            "id":"10",
+            "kategori": "Casual",
+            "nama": "Rebook Zig Kinegta",
+            "harga": "4.800.000",
+            "gambar": "/images/r7.jpg"
+        },
+        {
+            "id":"11",
+            "kategori": "Casual",
+            "nama": "Rebook Aisage",
+            "harga": "2.300.000",
+            "gambar": "/images/r2.jpg"
+        },
+        {
+            "id":"12",
+            "kategori": "Casual",
+            "nama": "Rebook thrift",
+            "harga": "1.899.000",
+            "gambar": "/images/r8.jpg"
+        },
+        {
+            "id":"13",
+            "kategori": "Casual",
+            "nama": "Rebook thrift",
+            "harga": "1.899.000",
+            "gambar": "/images/r8.jpg"
+        },
+        {
+            "id":"14",
+            "kategori": "Casual",
+            "nama": "Rebook thrift",
+            "harga": "1.899.000",
+            "gambar": "/images/r8.jpg"
+        },
+        {
+            "id":"15",
+            "kategori": "Casual",
+            "nama": "Rebook thrift",
+            "harga": "1.899.000",
+            "gambar": "/images/r8.jpg"
+        },
+        {
+            "id":"16",
+            "kategori": "Casual",
+            "nama": "Rebook thrift",
+            "harga": "1.899.000",
+            "gambar": "/images/r8.jpg"
+    
+        }
+        
+]
+
